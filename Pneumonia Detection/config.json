@@ -1,0 +1,15 @@
+{
+  "architectures": [
+    "ResNetForImageClassification"
+  ],
+  "model_type": "resnet",
+  "num_labels": 2,
+  "id2label": {
+    "0": "NORMAL",
+    "1": "PNEUMONIA"
+  },
+  "label2id": {
+    "NORMAL": 0,
+    "PNEUMONIA": 1
+  }
+}
