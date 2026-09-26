@@ -1,0 +1,19 @@
+{
+  "architectures": [
+    "EfficientNetForImageClassification"
+  ],
+  "model_type": "efficientnet",
+  "num_labels": 4,
+  "id2label": {
+    "0": "Mild Impairment",
+    "1": "Moderate Impairment",
+    "2": "No Impairment",
+    "3": "Very Mild Impairment"
+  },
+  "label2id": {
+    "Mild Impairment": 0,
+    "Moderate Impairment": 1,
+    "No Impairment": 2,
+    "Very Mild Impairment": 3
+  }
+}
